@@ -1,65 +1,36 @@
-## Thanks for Everything 
-### We will always remember you..
-
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
-
+<!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/subbusubashni/wav3_asenatamil/fork">
-    <img src="https://img.shields.io/github/forks/subbusubashni/wav3_asenatamil?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/subbusubashni/wav3_asenatamil/stargazers">
-    <img src="https://img.shields.io/github/stars/subbusubashni/wav3_asenatamil?style=social">
-  </a>
+    <a href="https://git.io/J0hKr">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Ok+Bie;I'm+going
+            alt="Typing SVG"
+        />
+    </a>
 </p>
 
+
+##
+
+<h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>
 <p align="center">
-  <a href="httsp://github.com/subbusubashni/wav3_asenatamil">
-    <img src="https://img.shields.io/github/repo-size/subbusubashni/wav3_asenatamil?color=purple&label=Repo%20Size&style=plastic">
 
-  </a>
-  <a href="httsp://github.com/subbusubashni/wav3_asenatamil">
-    <img src="https://img.shields.io/codefactor/grade/github/subbusubashni/wav3_asenatamil?color=purple&label=Code%20Quality&style=plastic">
+## 📢Introduce myself
 
-  </a>
-  <a href="https://github.com/subbusubashni/wav3_asenatamil/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/subbusubashni/wav3_asenatamil?color=purple&label=Lisance&style=plastic">
-
-  </a>
-  <a href="https://github.com/subbusubashni/wav3_asenatamil">
-    <img src="https://img.shields.io/github/languages/top/subbusubashni/wav3_asenatamil?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
-
-  </a>
-  <a href="https://t.me/AsenaSupport">
-    <img src="https://img.shields.io/badge/Telegram-Asena%20Support-purple&style=plastic">
-
-  </a>
-</p>
+- 🙂 I'm Vishnu Prasad
+- 🚩 I'm a beginner in this field
+- 📍 From Cheravally,Kayamkulam,Kerala,🇮🇳
+- 🎮 BGMI player (ID:5444486441)
+- 🏫 High School at Sree Narayana Central School,Kayamkulam
+- 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
 
 ```
-Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
+This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more useful to you
+```
 
-WhatsAsena - Asena Userbot Açık Kaynaklı geliştirmeye açık bir yazılımdır. 
-Yanlış ve amacı dışında kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
-Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp eklemeler çıkarmalar yapabilir,
-kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
-orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
-biçimde kullanmaları özelliğini sağlar.
-Kullanımı tamamen kullanıcının sorumluluğundadır.
-Botu amacı dışında kullanmak, açık bir şekilde yasaklanmanıza sebeb olur.
-Asena Userbot yalnızca bir altyapıdır. Nasıl sonradan yüklenen programlarla 
-yapılan işlerden işletim sistemi sorumlu değilse, 
-WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değildir.
-WhatsAsena'yı para karşılığı pazarlamak, kullanıma sunmak yahut herhangi bir maddi değere sahip
-birşey ile satışa sunmak kesinlikle yasaktır. Doğabilecek tüm yasal soruşturmalardan
-kullanıcı sorumludur.
-
-WhatsAsena - Asena Userbot is Open Source software open to development. 
+### Disclaimer ❗
+```
+  
+Meenakshi - Meenakshi Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -74,130 +45,131 @@ Marketing WhatsAsena for money, making it available or having any material value
 the user is responsible.
 ```
 
+### 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐚𝐭𝐮𝐬 ⚠️
+```
+𝙰𝚌𝚝𝚒𝚟𝚎 🟢
+```
+
+## 𝐋𝐚𝐭𝐞𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🙋🏻‍♀️
+
+- ✅ New Baileys version updated (3.5.2) @adiwajshing/baileys
+- ✅ New QR updated
+- ✅ Eva Artifical Intelligence Bug Fixed...
+
+```
+   Last Update : 21/Aug/2021 - 11:52am
+```
+
+## 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💁🏻‍♀️
+
+- ⬆️ Instagram Downloader
+- ⬆️ Facebook Downloader(𝐍𝐞𝐰)
+
+
 <div align="center">
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/87913417?v=4" width="200" height="200"/>
+  <p align="center">
 
-  ![WhatsAsena Logo](https://media0.giphy.com/media/WzWhxbIKpCCCYfTS3a/giphy.gif?cid=6c09b952ca458f6d0fdd2de872ae4335ca70b7c23958106f&rid=giphy.gif)
 
-<!---
-.mp4 version available on local file
--->
-
-  <h1>Tamil_Asena_V3</h1>
+<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-subbusubashni/wav3_asenatamil?color=pink&style=for-the-badge&logo=whatsapp"></a>
+</p>
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
+Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu Prasad</a> to make it public
     <br>
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |      
-        <a href="https://t.me/remasterplugin">Plugin Channel</a> |
-    <br>
+       | © |
+        Reserved |
+    <br> 
 </p>
 
 ----
+
+  <p align="center">
+  <a href="httsp://github.com/subbusubashni/wav3_asenatamil">
+    <img src="https://img.shields.io/github/repo-size/subbusubashni/wav3_asenatamil?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-  <a href="httsp://github.com/subbusubashni/wav3_asenatamil">
-    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square&label=Docker+Pulls+(Active+User+Count)">
-  </a>
-  <a href="httsp://github.com/subbusubashni/wav3_asenatamil">
-    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square&label=Docker+Image+Size+(Latest+by+Date)">
-  </a>
+<a href="https://github.com/subbusubashni/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-memanakizhakathil?color=pink&style=flat-square"></a>
+<a href="https://github.com/subbusubashni/wav3_asenatamil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/subbusubashni/wav3_asenatamil?color=pink&style=flat-square"></a>
+<a href="https://github.com/subbusubashni/wav3_asenatamil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/subbusubashni/wav3_asenatamil?color=pink&style=flat-square"></a>
+<a href="https://github.com/subbusubashni/wav3_asenatamil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/subbusubashni/wav3_asenatamil?label=Watchers&color=pink&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 </p>
 
+
+  
+</p>
+  
+
+<div align="center">
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-memanakizhakathil&show_icons=true&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-memanakizhakathil&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+</details> </div>
+
+
 ## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
-
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/subbusubashni/wav3_asenatamil/wiki)
-
-## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and Developed by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
-
-## ❓ Duplicated?
-**WhatsAsenaDuplicated** is the continue of **WhatsAsena**. We renewed repository about 5-6 months ago. So, **WhatsAsena** and **WhatsAsenaDuplicated** are the same.
-
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
+  <div align="center">
+       
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-memanakizhakathil&repo=Meenakshi&theme=nightowl)](https://github.com/subbusubashni/wav3_asenatamil)
+  </div>
+    
 ## Setup
-### Very Simple Method
-`Soon as Possible...`
+<div align="center">
 
-### Simple Method 
-
-[![Run on Repl.it](https://repl.it/badge/github/subbusubashni/wav3_asenatamil)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+  ### Simple Method
+  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@vishnukyk/Meenakshi-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subbusubashni/wav3_asenatamil)
-
-> [WhatsAsena Wiki (Full Guide)](https://github.com/subbusubashni/wav3_asenatamil/wiki) 
-
-### The Hard Method (Not Recommend)
+     </div>
+<br>
+<br >
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux or download Mozilla FireFox web browser and scan QR code...
+```
+----New baileys link will be publish soon---
+``` 
+  
+### The Hard Method
 ```js
-$ git clone https://github.com/subbusubashni/wav3_asenatamil.git
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/subbusubashni/wav3_asenatamil
 $ cd wav3_asenatamil
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/subbusubashni/wav3_asenatamil
+$ cd wav3_asenatamil
+$ chmod +x *
 $ npm i
-$ nano config.env
-// Config.env oluşturun ve düzenleyin. Örnek: https://github.com/subbusubashni/wav3_asenatamil/wiki/config.env-Example
-// Create Config.env and edit it. Examle: https://github.com/subbusubashni/wav3_asenatamil/wiki/config.env-Example
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
 $ node bot.js
 ```
-
-##
-
-### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
-[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/subbusubashni/wav3_asenatamil/wiki)
-
-##
-
 ## F.A.Q
 Answer a few frequently asked questions;
-### 💬 Can you read my messages?
+### Can you read my messages?
 This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
 
-### 🔐 What about our security?
+### What about our security?
 If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
-### 💵 Is it paid?
+### Is it paid?
 **Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
-
-### 🌟 Is there enough features?
-Yes. WhatsAsena comes with more than 170 internal command. Which including unique packages, machine learning AIs, fastly tools etc.. Users can add new features their bots. Check our [telegram group](https://t.me/AsenaSupport) .
-
-### 🛡️ Cyber Attack Protection?
-Only original [WhatsAsena](https://github.com/subbusubashni/wav3_asenatamil) do this. It has own unique protection style inside WhatsAsena's database. It protect your phone from WhatApp attacks. Thats mean all fake creations carries a big risk for users privacy.
-
-### 🧠 What is Eva Neural AI?
-**Eva** is powered with neural networks, artificial brain cells and brain that can remember conversation. **Eva** developed by me for like a virtual assistants. __(Siri, Sam, Tesla etc..)__ 
-WhatsAsena has %5 data of **Eva** to interact with users. Our gan datas stored on Brainshop. If users want to access **Eva**, they must start message with `Eva`
-
-### 🐺 What does Asena mean?
-[Asena](https://tr.wikipedia.org/wiki/Asena), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
-
-<details>
-  <summary><h3>Other Questions ❔</h3></summary>
-
-### Data Traffic
-WhatsAsena encrypts all datas while sending messages, receiving messages, updates etc. There is no possible memory leaks.
-
-### Changing Branchs on Local Installation
-WhatsAsena uses always **master** branch. If users cloned other branches, they can't able to install it.
-
-### How Interp Command Works? 
-**.interp** command useful for interpolating low frame rate videos. This system, which is the first in the world, is also seen in WhatsAsena, the world's first UserBot. Basically it superimposes the previous frame and produces new frames to replace blank datas. By doing a simple calculation, If we use **.interp 60** to a 300 frame 10 second video, the output will be about 4000-6000 frame.
-
-### My Bot is Very Slowly, What should I do?
-Firstly, you can check your ethernet connection. Your ping, packet loss and bandwidth. WhatsAsena uses phone's ethernet connection (Wi-Fi, Li-Fi, Mobile). So This is not about the WhatsAsena, it's about the device or the internet used.
-
-### Where Can I Find the Number of Users? 
-You can look at the values ​​written under our logo above. This value shows the current number of users.
-
-### Should I Trust Other Bots Like WhatsAsena?
-This choice is yours, There are a lot of fake bots using our codes. Can be dangerous as they are not official. Moreover, since there is no cyber attack protection in fake bots, the device can be easily accessed whenever any vulnerability is found.
-
-### Why Are Updates Coming Late?
-Because I'm the only developer. I need to test every step. I need to check each branch and import it into unique npm package. And I have a social life too :)
-
-### When Will Support Be Cut Off?
-When the WhatsAsena learns to solve all its problems by itself. My first goal is to provide this stuff.
-
-</details>
-
-##
 
 ### ⚠️ Warning! 
 ```
@@ -205,40 +177,43 @@ Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
-
-Your account may be banned for the following reasons:
-- Using .ban command for more than one user.
-- Using fake numbers.
-- Spamming Too Much (If someone complains)
 ```
 
+### ⚠️മുന്നറിയിപ്പ്!
+```
+യൂസർബോട്ട് കാരണം; നിങ്ങളുടെ വാട്ട്‌സ്ആപ്പ് അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
+ഇതൊരു ഓപ്പൺ സോഴ്‌സ് പ്രോജക്റ്റാണ്, നിങ്ങൾ ചെയ്യുന്ന എല്ലാത്തിനും നിങ്ങൾ ഉത്തരവാദിയാണ്.
+തീർച്ചയായും, ഞാനോ അല്ലെങ്കിൽ Asena എക്സിക്യൂട്ടീവുകൾ ഉത്തരവാദിത്തം സ്വീകരിക്കുന്നില്ല.അസേന
+സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
+```
+
+
+
 ## Developers
+  <div align="center">
+    
+  [![vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil.png?size=100)](https://github.com/vishnu-memanakizhakathil) |  [![Subhashini](https://github.com/subbusubashni.png?size=100)](https://github.com/subbusubashni) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+----|----|----
+[vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil)  | [Subhashini-Selvaraj](https://github.com/subbusubashni) | [afnanplk](https://github.com/afnanplk)
+Author, Base, Bug Fixes, Modules | Modifiying  as   public, Bug Fixes | Bug Fixes, Modules
+  </div>
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/VISHNUP76080410?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xxirfanx" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCIuejw6s9ofhqTUhE1_ErPw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="irfan yt ff" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hackerking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerking" height="30" width="40" /></a>
+</p>
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=80)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=80)](https://github.com/CW4RR10R)
-----|----|----|----|----
-[Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
-Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@itacirgabral](https://github.com/itacirgabral) for helps
-- `Ikarus#7808 (Discord)` for helps
-- [@Unique_hunter](https://t.me/Unique_hunter) for helps and ideas
-- Translators
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
 
+
+  
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
-
-## Contributing
-Contributing to the WhatsAsena project, world first UserBot for WhatsApp. 
-Additions and innovations are allowed. Please contribute with these rules:
-- New Features 
-- Fixing Critical Bugs
-- New AI Systems
-- Innovations That Don't Break the Integrity
-
-In addition to these rules; Unethical additions such as nudity, sexuality, insults, terrorism are not allowed.
-More than 130,000 uses worldwide, and this all-age project demands innovations to match ethnic rules.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
