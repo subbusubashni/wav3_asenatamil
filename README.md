@@ -41,7 +41,7 @@ salet எதையும் விற்பனைக்கு வழங்க �
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/89119899?v=4" width="200" height="200"/>
   <p align="center">
 
-<a href="#"><img title="TAMILASENAV3" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="TAMILASENAV3" src="https://img.shields.io/badge/TAMILASENAV3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-subbusubashni/wav3_asenatamil?color=pink&style=for-the-badge&logo=whatsapp"></a>
