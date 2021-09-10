@@ -74,9 +74,9 @@ Project created by <a href="https://github.com/subbu-subashni">Subhashini Selvar
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-memanakizhakathil&show_icons=true&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subbusubashni&show_icons=true&theme=nightowl" alt="subbusubashni" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-memanakizhakathil&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subbusubashni&theme=nightowl" alt="subbusubashni" /></p>
 </details> </div>
 
 
