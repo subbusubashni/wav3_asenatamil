@@ -44,11 +44,11 @@ salet எதையும் விற்பனைக்கு வழங்க �
 <a href="#"><img title="TAMILASENAV3" src="https://img.shields.io/badge/TAMILASENAV3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-subbusubashni/wav3_asenatamil?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/subbusubashni"><img title="Author" src="https://img.shields.io/badge/Author-subbusubashni/wav3_tamilasena?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu Prasad</a> to make it public
+Project created by <a href="https://github.com/subbu-subashni">Subhashini Selvaraj</a> to make it public
     <br>
        | © |
         Reserved |
@@ -87,7 +87,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-memanakizhakathil&repo=Meenakshi&theme=nightowl)](https://github.com/subbusubashni/wav3_asenatamil)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=subbusubashni&repo=wav3_tamilasena&theme=nightowl)](https://github.com/subbusubashni/wav3_asenatamil)
   </div>
     
 ## Setup
