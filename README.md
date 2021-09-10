@@ -61,7 +61,7 @@ Project created by <a href="https://github.com/subbu-subashni">Subhashini Selvar
   <a href="httsp://github.com/subbusubashni/wav3_asenatamil">
     <img src="https://img.shields.io/github/repo-size/subbusubashni/wav3_asenatamil?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/subbusubashni/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-memanakizhakathil?color=pink&style=flat-square"></a>
+<a href="https://github.com/subbusubashni/followers"><img title="Followers" src="https://img.shields.io/github/followers/subbusubashni?color=pink&style=flat-square"></a>
 <a href="https://github.com/subbusubashni/wav3_asenatamil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/subbusubashni/wav3_asenatamil?color=pink&style=flat-square"></a>
 <a href="https://github.com/subbusubashni/wav3_asenatamil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/subbusubashni/wav3_asenatamil?color=pink&style=flat-square"></a>
 <a href="https://github.com/subbusubashni/wav3_asenatamil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/subbusubashni/wav3_asenatamil?label=Watchers&color=pink&style=flat-square"></a>
@@ -80,15 +80,6 @@ Project created by <a href="https://github.com/subbu-subashni">Subhashini Selvar
 </details> </div>
 
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
-  <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=subbusubashni&repo=wav3_tamilasena&theme=nightowl)](https://github.com/subbusubashni/wav3_asenatamil)
-  </div>
     
 ## Setup
 <div align="center">
@@ -140,23 +131,6 @@ If you are concerned about security, you can install it on your own computer. If
 
 ### Is it paid?
 **Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
-
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
-
-### ⚠️മുന്നറിയിപ്പ്!
-```
-യൂസർബോട്ട് കാരണം; നിങ്ങളുടെ വാട്ട്‌സ്ആപ്പ് അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
-ഇതൊരു ഓപ്പൺ സോഴ്‌സ് പ്രോജക്റ്റാണ്, നിങ്ങൾ ചെയ്യുന്ന എല്ലാത്തിനും നിങ്ങൾ ഉത്തരവാദിയാണ്.
-തീർച്ചയായും, ഞാനോ അല്ലെങ്കിൽ Asena എക്സിക്യൂട്ടീവുകൾ ഉത്തരവാദിത്തം സ്വീകരിക്കുന്നില്ല.അസേന
-സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
-```
-
 
 
 ## Developers
