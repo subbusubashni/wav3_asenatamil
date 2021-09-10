@@ -1,48 +1,20 @@
-<!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/J0hKr">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Ok+Bie;I'm+going
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-
-
-##
-
-<h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>
-<p align="center">
-
-## 📢Introduce myself
-
-- 🙂 I'm Vishnu Prasad
-- 🚩 I'm a beginner in this field
-- 📍 From Cheravally,Kayamkulam,Kerala,🇮🇳
-- 🎮 BGMI player (ID:5444486441)
-- 🏫 High School at Sree Narayana Central School,Kayamkulam
-- 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
-
-```
-This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more useful to you
-```
 
 ### Disclaimer ❗
 ```
   
-Meenakshi - Meenakshi Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
+WhatsAsena - Asena Userbot என்பது திறந்த மூல மென்பொருள் ஆகும்.
+தவறான அல்லது தவறாகப் பயன்படுத்துவதால் ஏற்படும் அனைத்து விளைவுகளுக்கும் பயனர் பொறுப்பு.
+இது ஒரு திறந்த மூல திட்டம் என்பதால், யார் வேண்டுமானாலும் மென்பொருளை நகலெடுக்கலாம், சேர்க்கலாம் மற்றும் நீக்கலாம்,
+மற்றும் அவர்கள் தனிப்பயனாக்கும் வகையில் பயன்படுத்தவும். கூடுதலாக, செருகுநிரல் ஆதரவு பயனர்களுக்கு உதவுகிறது
+அசல் மென்பொருளில் தங்கள் சொந்த செருகுநிரல்களை நிறுவி, அவர்கள் விரும்பியபடி பயன்படுத்தவும்.
+நோக்கமின்றி போட் பயன்படுத்துவது உங்களை வெளிப்படையாக தடை செய்யும்.
+பயன்பாடு முற்றிலும் பயனரின் பொறுப்பாகும், அசேனா யூசர் பாட் ஒரு
+உள்கட்டமைப்பு மட்டுமே. இயக்க முறைமை பொறுப்பல்ல
+பின்னர் நிறுவப்பட்ட நிரல்களுடன் செய்யப்படும் வேலைக்கு, WhatsAsena
+பயனர்களின் பயன்பாட்டு நோக்கம் மற்றும் முறைக்கு பொறுப்பல்ல.
+வாட்ஸ்அசேனாவை பணத்திற்காக சந்தைப்படுத்துதல், கிடைக்கச் செய்தல் அல்லது ஏதேனும் பொருள் மதிப்பு கொண்டவை
+salet எதையும் விற்பனைக்கு வழங்க கண்டிப்பாக தடைசெய்யப்பட்டுள்ளது. எழக்கூடிய அனைத்து சட்ட விசாரணைகளும்
+பயனர் பொறுப்பு.
 ```
 
 ### 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐚𝐭𝐮𝐬 ⚠️
@@ -65,13 +37,11 @@ the user is responsible.
 - ⬆️ Instagram Downloader
 - ⬆️ Facebook Downloader(𝐍𝐞𝐰)
 
-
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/87913417?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/89119899?v=4" width="200" height="200"/>
   <p align="center">
 
-
-<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="TAMILASENAV3" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-subbusubashni/wav3_asenatamil?color=pink&style=for-the-badge&logo=whatsapp"></a>
